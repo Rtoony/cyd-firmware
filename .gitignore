@@ -1,0 +1,3 @@
+# Nothing here should ever be a build tree — only published outputs.
+*.elf
+*.map
