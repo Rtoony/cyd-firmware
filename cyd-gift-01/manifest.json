@@ -1,13 +1,13 @@
 {
   "name": "cyd-gift-01",
-  "version": "1.9.0",
+  "version": "1.9.1",
   "builds": [
     {
       "chipFamily": "ESP32",
       "ota": {
-        "path": "cyd-gift-01-1.9.0.bin",
-        "md5": "e24306a9d2a238ce2881197578bbbfb9",
-        "summary": "cyd panel 1.9.0"
+        "path": "cyd-gift-01-1.9.1.bin",
+        "md5": "1ccc7435bf756af032875919aaf36531",
+        "summary": "cyd panel 1.9.1"
       }
     }
   ]
